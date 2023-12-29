@@ -12,3 +12,6 @@ In this part, I investigated the dataset and used both literature review and Pyt
 
 # Results
 Random Forest performed best among 6 models. The exercise also showed the importance of feature selection and SMOTE in classification using large-scale data.
+
+# Note
+As the data file is too large to upload on Github, here is the original data file: https://drive.google.com/file/d/1a8va0G-FXgtXC8DKwpQ1gukn4myNA4cw/view?usp=sharing 
